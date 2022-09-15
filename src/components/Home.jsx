@@ -6,7 +6,7 @@ return (
 
 <div className='container'>
     <div className='row'>
-        <p>ACA ESTA LA HomePage</p>
+        <h1>Aca va a estar la HomePage</h1>
     </div>
 </div>
 );
